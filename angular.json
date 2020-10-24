@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "FECComentarios"
+    }
+  },
+  "defaultProject": "FECComentarios",
+  "cli": {
+    "analytics": "57588497-8b44-47a6-822b-470752aa5c6d"
+  }
 }
